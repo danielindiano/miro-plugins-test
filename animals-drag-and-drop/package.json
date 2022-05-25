@@ -1,0 +1,19 @@
+{
+  "name": "animals-drag-and-drop",
+  "version": "0.1.0",
+  "licence": "MIT",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "mirotone": "2.0.8",
+    "random-animals-api": "^1.2.6"
+  },
+  "devDependencies": {
+    "@mirohq/websdk-types": "latest",
+    "typescript": "4.5.5",
+    "vite": "2.7.13"
+  }
+}
